@@ -28,8 +28,6 @@ public class Program {
         list2.addLast(new TwoNode(3));
         list2.addLast(new TwoNode(2));
         list2.addLast(new TwoNode(1));
-        //print(list2);
-        //list2.addFirst(new TwoNode(15));
         print(list2);
         Reverse.TwoListReverse(list2);
         print(list2);
